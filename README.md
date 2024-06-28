@@ -5,9 +5,13 @@
 
 ```pip install -r requirements.txt```
 
-Include a .env file with the variable with the gemini api key 
+While running locally, include a .env file with the variable with the gemini api key 
 GOOGLE_API_KEY=""
 
 ## Running the app
 
-```streamlit run app.py```
+To run locally,
+```streamlit run app-local.py```
+
+To run on streamlit,
+```streamlit run app-streamlit.py```
