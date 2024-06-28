@@ -10,4 +10,4 @@ GOOGLE_API_KEY=""
 
 ## Running the app
 
-```streamlit run app2.py```
+```streamlit run app.py```
