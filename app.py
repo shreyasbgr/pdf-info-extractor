@@ -69,9 +69,9 @@ def user_input(user_question):
 
 def main():
     st.set_page_config(page_title="Chat with PDF's")
-    st.header("PDF info extractor app powered by Google GeminiGeminiGemini📈")
+    st.header("PDF info extractor app powered by Google Gemini📈")
 
-    user_question = st.text_input("Ask a Question to get infor from the uploaded PDF Files")
+    user_question = st.text_input("Ask a Question to get information from the uploaded PDF Files")
 
     if user_question:
         user_input(user_question)
