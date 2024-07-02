@@ -68,7 +68,7 @@ def user_input(user_question):
     st.write("Reply: ", response["output_text"])
 
 def main():
-    st.set_page_config(page_title="Chat with PDF's")
+    st.set_page_config(page_title="PDF Info Extractor")
     st.header("PDF info extractor app powered by Google Gemini📈")
 
     user_question = st.text_input("Ask a Question to get information from the uploaded PDF Files")
