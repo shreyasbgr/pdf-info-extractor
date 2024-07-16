@@ -15,3 +15,7 @@ To run locally,
 
 To run on streamlit,
 ```streamlit run app-streamlit.py```
+
+## Live App link
+
+[Live App](https://shreyasbgr-pdf-info-extractor-app-streamlit-8ebnwa.streamlit.app/)
